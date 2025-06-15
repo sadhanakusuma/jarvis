@@ -2,7 +2,7 @@
 
 Jarvis is a chat assistant project that demonstrates HTML, CSS, JavaScript, and Python integration for UI design and basic functionality.
 
-## 📽Project Overview
+## Project Overview
 
 In this project, you will learn about:
 - Jarvis project setup
